@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A BRIEFE DISCOVRSE, TOVCHING THE HAPPIE VNION OF THE KINGDOMES OF ENGLAND, AND SCOTLANDDEDICATED IN 
+
 #####Body#####
 
 1. A BRIEFE DIScourse, touching the happy vnion of the Kingdomes of England, and Scotland. DEDICATED IN PRIuate to his MAIESTIE.
@@ -74,49 +74,43 @@ There are 2 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|9||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|9||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|2||
-|3.|__div__|2| @__type__ (2) : title_page (1), discourse (1)|
-|4.|__front__|1||
-|5.|__g__|192| @__ref__ (192) : char:EOLhyphen (191), char:cmbAbbrStroke (1)|
-|6.|__gap__|2| @__reason__ (2) : illegible: missing (1), illegible: over-inked (1)  •  @__extent__ (2) : 1 word (1), 3 letters (1)|
-|7.|__head__|1||
-|8.|__hi__|144||
-|9.|__l__|7||
-|10.|__p__|47||
-|11.|__pb__|40| @__facs__ (40) : tcp:4650:1 (2), tcp:4650:2 (2), tcp:4650:3 (2), tcp:4650:4 (2), tcp:4650:5 (2), tcp:4650:6 (2), tcp:4650:7 (2), tcp:4650:8 (2), tcp:4650:9 (2), tcp:4650:10 (2), tcp:4650:11 (2), tcp:4650:12 (2), tcp:4650:13 (2), tcp:4650:14 (2), tcp:4650:15 (2), tcp:4650:16 (2), tcp:4650:17 (2), tcp:4650:18 (2), tcp:4650:19 (2), tcp:4650:20 (2)|
-|12.|__q__|2||
-|13.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|14.|__trailer__|1||
+|1.|__desc__|2||
+|2.|__div__|2| @__type__ (2) : title_page (1), discourse (1)|
+|3.|__g__|192| @__ref__ (192) : char:EOLhyphen (191), char:cmbAbbrStroke (1)|
+|4.|__gap__|2| @__reason__ (2) : illegible: missing (1), illegible: over-inked (1)  •  @__extent__ (2) : 1 word (1), 3 letters (1)|
+|5.|__head__|1||
+|6.|__hi__|144||
+|7.|__l__|7||
+|8.|__p__|47||
+|9.|__pb__|40| @__facs__ (40) : tcp:4650:1 (2), tcp:4650:2 (2), tcp:4650:3 (2), tcp:4650:4 (2), tcp:4650:5 (2), tcp:4650:6 (2), tcp:4650:7 (2), tcp:4650:8 (2), tcp:4650:9 (2), tcp:4650:10 (2), tcp:4650:11 (2), tcp:4650:12 (2), tcp:4650:13 (2), tcp:4650:14 (2), tcp:4650:15 (2), tcp:4650:16 (2), tcp:4650:17 (2), tcp:4650:18 (2), tcp:4650:19 (2), tcp:4650:20 (2)|
+|10.|__q__|2||
+|11.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|12.|__trailer__|1||
